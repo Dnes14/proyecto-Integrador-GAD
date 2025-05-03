@@ -5,4 +5,5 @@ pandas
 ucimlrepo 
 matplotlib
 seaborn
-Pandoc
+scikit-learn
+scipy
